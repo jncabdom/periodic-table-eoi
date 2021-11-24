@@ -1,0 +1,1014 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomicMass": "1.00794(4)",
+    "cpkHexColor": "FFFFFF",
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomicMass": "4.002602(2)",
+    "cpkHexColor": "D9FFFF",
+    "groupBlock": "noble gas"
+  },
+  {
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "atomicMass": "6.941(2)",
+    "cpkHexColor": "CC80FF",
+    "groupBlock": "alkali metal"
+  },
+  {
+    "atomicNumber": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "atomicMass": "9.012182(3)",
+    "cpkHexColor": "C2FF00",
+    "groupBlock": "alkaline earth metal"
+  },
+  {
+    "atomicNumber": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "atomicMass": "10.811(7)",
+    "cpkHexColor": "FFB5B5",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "atomicMass": "12.0107(8)",
+    "cpkHexColor": 909090,
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "atomicMass": "14.0067(2)",
+    "cpkHexColor": "3050F8",
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "atomicMass": "15.9994(3)",
+    "cpkHexColor": "FF0D0D",
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "atomicMass": "18.9984032(5)",
+    "cpkHexColor": "FFF",
+    "groupBlock": "halogen"
+  },
+  {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "atomicMass": "20.1797(6)",
+    "cpkHexColor": "B3E3F5",
+    "groupBlock": "noble gas"
+  },
+  {
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "atomicMass": "22.98976928(2)",
+    "cpkHexColor": "AB5CF2",
+    "groupBlock": "alkali metal"
+  },
+  {
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "atomicMass": "24.3050(6)",
+    "cpkHexColor": "8AFF00",
+    "groupBlock": "alkaline earth metal"
+  },
+  {
+    "atomicNumber": 13,
+    "symbol": "Al",
+    "name": "Aluminum",
+    "atomicMass": "26.9815386(8)",
+    "cpkHexColor": "BFA6A6",
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "atomicMass": "28.0855(3)",
+    "cpkHexColor": "F0C8A0",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "atomicMass": "30.973762(2)",
+    "cpkHexColor": "FF8000",
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "atomicMass": "32.065(5)",
+    "cpkHexColor": "FFFF30",
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "atomicMass": "35.453(2)",
+    "cpkHexColor": "1FF01F",
+    "groupBlock": "halogen"
+  },
+  {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "atomicMass": "39.948(1)",
+    "cpkHexColor": "80D1E3",
+    "groupBlock": "noble gas"
+  },
+  {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "atomicMass": "39.0983(1)",
+    "cpkHexColor": "8F40D4",
+    "groupBlock": "alkali metal"
+  },
+  {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "atomicMass": "40.078(4)",
+    "cpkHexColor": "3DFF00",
+    "groupBlock": "alkaline earth metal"
+  },
+  {
+    "atomicNumber": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "atomicMass": "44.955912(6)",
+    "cpkHexColor": "E6E6E6",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "atomicMass": "47.867(1)",
+    "cpkHexColor": "BFC2C7",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "atomicMass": "50.9415(1)",
+    "cpkHexColor": "A6A6AB",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "atomicMass": "51.9961(6)",
+    "cpkHexColor": "8A99C7",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "atomicMass": "54.938045(5)",
+    "cpkHexColor": "9C7AC7",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "atomicMass": "55.845(2)",
+    "cpkHexColor": "E06633",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "atomicMass": "58.933195(5)",
+    "cpkHexColor": "F090A0",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "atomicMass": "58.6934(4)",
+    "cpkHexColor": "50D050",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "atomicMass": "63.546(3)",
+    "cpkHexColor": "C88033",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "atomicMass": "65.38(2)",
+    "cpkHexColor": "7D80B0",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "atomicMass": "69.723(1)",
+    "cpkHexColor": "C28F8F",
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "atomicMass": "72.64(1)",
+    "cpkHexColor": "668F8F",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "atomicMass": "74.92160(2)",
+    "cpkHexColor": "BD80E3",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "atomicMass": "78.96(3)",
+    "cpkHexColor": "FFA100",
+    "groupBlock": "nonmetal"
+  },
+  {
+    "atomicNumber": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "atomicMass": "79.904(1)",
+    "cpkHexColor": "A62929",
+    "groupBlock": "halogen"
+  },
+  {
+    "atomicNumber": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "atomicMass": "83.798(2)",
+    "cpkHexColor": "5CB8D1",
+    "groupBlock": "noble gas"
+  },
+  {
+    "atomicNumber": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "atomicMass": "85.4678(3)",
+    "cpkHexColor": "702EB0",
+    "groupBlock": "alkali metal"
+  },
+  {
+    "atomicNumber": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "atomicMass": "87.62(1)",
+    "cpkHexColor": "00FF00",
+    "groupBlock": "alkaline earth metal"
+  },
+  {
+    "atomicNumber": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "atomicMass": "88.90585(2)",
+    "cpkHexColor": "94FFFF",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 40,
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "atomicMass": "91.224(2)",
+    "cpkHexColor": "94E0E0",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "atomicMass": "92.90638(2)",
+    "cpkHexColor": "73C2C9",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "atomicMass": "95.96(2)",
+    "cpkHexColor": "54B5B5",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "atomicMass": [
+      98
+    ],
+    "cpkHexColor": "3B9E9E",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "atomicMass": "101.07(2)",
+    "cpkHexColor": "248F8F",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "atomicMass": "102.90550(2)",
+    "cpkHexColor": "0A7D8C",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "atomicMass": "106.42(1)",
+    "cpkHexColor": "CCDDD7",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "atomicMass": "107.8682(2)",
+    "cpkHexColor": "C0C0C0",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "atomicMass": "112.411(8)",
+    "cpkHexColor": "FFD98F",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "atomicMass": "114.818(3)",
+    "cpkHexColor": "A67573",
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "atomicMass": "118.710(7)",
+    "cpkHexColor": 668080,
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "atomicMass": "121.760(1)",
+    "cpkHexColor": "9E63B5",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "atomicMass": "127.60(3)",
+    "cpkHexColor": "D47A00",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "atomicMass": "126.90447(3)",
+    "cpkHexColor": 940094,
+    "groupBlock": "halogen"
+  },
+  {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "atomicMass": "131.293(6)",
+    "cpkHexColor": "429EB0",
+    "groupBlock": "noble gas"
+  },
+  {
+    "atomicNumber": 55,
+    "symbol": "Cs",
+    "name": "Cesium",
+    "atomicMass": "132.9054519(2)",
+    "cpkHexColor": "57178F",
+    "groupBlock": "alkali metal"
+  },
+  {
+    "atomicNumber": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "atomicMass": "137.327(7)",
+    "cpkHexColor": "00C900",
+    "groupBlock": "alkaline earth metal"
+  },
+  {
+    "atomicNumber": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "atomicMass": "138.90547(7)",
+    "cpkHexColor": "70D4FF",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "atomicMass": "140.116(1)",
+    "cpkHexColor": "FFFFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "atomicMass": "140.90765(2)",
+    "cpkHexColor": "D9FFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "atomicMass": "144.242(3)",
+    "cpkHexColor": "C7FFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 61,
+    "symbol": "Pm",
+    "name": "Promethium",
+    "atomicMass": [
+      145
+    ],
+    "cpkHexColor": "A3FFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "atomicMass": "150.36(2)",
+    "cpkHexColor": "8FFFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "atomicMass": "151.964(1)",
+    "cpkHexColor": "61FFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "atomicMass": "157.25(3)",
+    "cpkHexColor": "45FFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "atomicMass": "158.92535(2)",
+    "cpkHexColor": "30FFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 66,
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "atomicMass": "162.500(1)",
+    "cpkHexColor": "1FFFC7",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "atomicMass": "164.93032(2)",
+    "cpkHexColor": "00FF9C",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "atomicMass": "167.259(3)",
+    "cpkHexColor": "FFF",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 69,
+    "symbol": "Tm",
+    "name": "Thulium",
+    "atomicMass": "168.93421(2)",
+    "cpkHexColor": "00D452",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 70,
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "atomicMass": "173.054(5)",
+    "cpkHexColor": "00BF38",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 71,
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "atomicMass": "174.9668(1)",
+    "cpkHexColor": "00AB24",
+    "groupBlock": "lanthanoid"
+  },
+  {
+    "atomicNumber": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "atomicMass": "178.49(2)",
+    "cpkHexColor": "4DC2FF",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "atomicMass": "180.94788(2)",
+    "cpkHexColor": "4DA6FF",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 74,
+    "symbol": "W",
+    "name": "Tungsten",
+    "atomicMass": "183.84(1)",
+    "cpkHexColor": "2194D6",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "atomicMass": "186.207(1)",
+    "cpkHexColor": "267DAB",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "atomicMass": "190.23(3)",
+    "cpkHexColor": 266696,
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "atomicMass": "192.217(3)",
+    "cpkHexColor": 175487,
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 78,
+    "symbol": "Pt",
+    "name": "Platinum",
+    "atomicMass": "195.084(9)",
+    "cpkHexColor": "D0D0E0",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 79,
+    "symbol": "Au",
+    "name": "Gold",
+    "atomicMass": "196.966569(4)",
+    "cpkHexColor": "FFD123",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 80,
+    "symbol": "Hg",
+    "name": "Mercury",
+    "atomicMass": "200.59(2)",
+    "cpkHexColor": "B8B8D0",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 81,
+    "symbol": "Tl",
+    "name": "Thallium",
+    "atomicMass": "204.3833(2)",
+    "cpkHexColor": "A6544D",
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "atomicMass": "207.2(1)",
+    "cpkHexColor": 575961,
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "atomicMass": "208.98040(1)",
+    "cpkHexColor": "9E4FB5",
+    "groupBlock": "metal"
+  },
+  {
+    "atomicNumber": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "atomicMass": [
+      209
+    ],
+    "cpkHexColor": "AB5C00",
+    "groupBlock": "metalloid"
+  },
+  {
+    "atomicNumber": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "atomicMass": [
+      210
+    ],
+    "cpkHexColor": "754F45",
+    "groupBlock": "halogen"
+  },
+  {
+    "atomicNumber": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "atomicMass": [
+      222
+    ],
+    "cpkHexColor": 428296,
+    "groupBlock": "noble gas"
+  },
+  {
+    "atomicNumber": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "atomicMass": [
+      223
+    ],
+    "cpkHexColor": 420066,
+    "groupBlock": "alkali metal"
+  },
+  {
+    "atomicNumber": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "atomicMass": [
+      226
+    ],
+    "cpkHexColor": "007D00",
+    "groupBlock": "alkaline earth metal"
+  },
+  {
+    "atomicNumber": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "atomicMass": [
+      227
+    ],
+    "cpkHexColor": "70ABFA",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "atomicMass": "232.03806(2)",
+    "cpkHexColor": "00BAFF",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "atomicMass": "231.03588(2)",
+    "cpkHexColor": "00A1FF",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "atomicMass": "238.02891(3)",
+    "cpkHexColor": "008FFF",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "atomicMass": [
+      237
+    ],
+    "cpkHexColor": "0080FF",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "atomicMass": [
+      244
+    ],
+    "cpkHexColor": "006BFF",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "atomicMass": [
+      243
+    ],
+    "cpkHexColor": "545CF2",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "atomicMass": [
+      247
+    ],
+    "cpkHexColor": "785CE3",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "atomicMass": [
+      247
+    ],
+    "cpkHexColor": "8A4FE3",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "atomicMass": [
+      251
+    ],
+    "cpkHexColor": "A136D4",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "atomicMass": [
+      252
+    ],
+    "cpkHexColor": "B31FD4",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "atomicMass": [
+      257
+    ],
+    "cpkHexColor": "B31FBA",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "atomicMass": [
+      258
+    ],
+    "cpkHexColor": "B30DA6",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "atomicMass": [
+      259
+    ],
+    "cpkHexColor": "BD0D87",
+    "groupBlock": "actinoid"
+  },
+  {
+    "atomicNumber": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "atomicMass": [
+      262
+    ],
+    "cpkHexColor": "C70066",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "atomicMass": [
+      267
+    ],
+    "cpkHexColor": "CC0059",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "atomicMass": [
+      268
+    ],
+    "cpkHexColor": "D1004F",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "atomicMass": [
+      271
+    ],
+    "cpkHexColor": "D90045",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "atomicMass": [
+      272
+    ],
+    "cpkHexColor": "E00038",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 108,
+    "symbol": "Hs",
+    "name": "Hassium",
+    "atomicMass": [
+      270
+    ],
+    "cpkHexColor": "E6002E",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "atomicMass": [
+      276
+    ],
+    "cpkHexColor": "EB0026",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "atomicMass": [
+      281
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 111,
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "atomicMass": [
+      280
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 112,
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "atomicMass": [
+      285
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "transition metal"
+  },
+  {
+    "atomicNumber": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "atomicMass": [
+      284
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "post-transition metal"
+  },
+  {
+    "atomicNumber": 114,
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "atomicMass": [
+      289
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "post-transition metal"
+  },
+  {
+    "atomicNumber": 115,
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "atomicMass": [
+      288
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "post-transition metal"
+  },
+  {
+    "atomicNumber": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "atomicMass": [
+      293
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "post-transition metal"
+  },
+  {
+    "atomicNumber": 117,
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "atomicMass": [
+      294
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "post-transition metal"
+  },
+  {
+    "atomicNumber": 118,
+    "symbol": "Og",
+    "name": "Oganesson",
+    "atomicMass": [
+      294
+    ],
+    "cpkHexColor": "FFF",
+    "groupBlock": "noble gas"
+  }
+]
